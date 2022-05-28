@@ -1,5 +1,4 @@
- <a href="https://ibb.co/TPB0Rdv">
-         <img alt=“banner” src="https://ibb.co/TPB0Rdv">
+!(https://github.com/SarahAlCodes/SarahAlCodes/blob/dbe59acc04d5a169016e1a6ce1c264f8e2bd8d73/SWE%20banner.png)
 
 <h1 align="center">Hello 👋 My name is Sarah!</h1>
 
