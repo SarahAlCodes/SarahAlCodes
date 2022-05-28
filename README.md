@@ -2,15 +2,15 @@
 
 <h1 align="center">Hello 👋 My name is Sarah!</h1>
 
-  🔭 My name's Sarah and I'm a software engineer based in South Florida.
+  🔭 I'm a software engineer based in South Florida.
+  
+  👯 I’m looking to collaborate on Open-Source Projects.
 
   🌱 I’m currently learning Node.js
 
-  👯 I’m looking to collaborate on Open-source Projects.
+  👨‍💻 All of my projects are available at [SarahAlCodes](https://sarahal-said.netlify.app/)
 
-  👨‍💻 All of my projects are available at [https://sarahal-said.netlify.app/](sarahal-said)
-
-  💬 Ask me about **HTML, CSS, JavaScript, and traveling**
+  💬 Ask me about **HTML, CSS, JavaScript, and weight-lifting!**
 
   📫 How to reach me **salsa025@fiu.edu**
 
