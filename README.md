@@ -1,15 +1,15 @@
 <h1 align="left">Hello 👋 My name is Sarah!</h1>
-- 🔭 I’m currently working on **a patient check-in application.**
+  🔭 I’m currently working on **a patient check-in application.**
 
-- 🌱 I’m currently learning **Node.js**
+  🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **Open-source Projects.**
+  👯 I’m looking to collaborate on **Open-source Projects.**
 
-- 👨‍💻 All of my projects are available at [https://sarahal-said.netlify.app/](https://sarahal-said.netlify.app/)
+  👨‍💻 All of my projects are available at [https://sarahal-said.netlify.app/](https://sarahal-said.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and weight-lifting**
+  💬 Ask me about **HTML, CSS, JavaScript, and weight-lifting**
 
-- 📫 How to reach me **salsa025@fiu.edu**
+  📫 How to reach me **salsa025@fiu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
