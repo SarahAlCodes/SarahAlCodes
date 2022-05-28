@@ -1,3 +1,6 @@
+ <a href="https://ibb.co/TPB0Rdv">
+         <img alt=“banner” src="https://ibb.co/TPB0Rdv">
+
 <h1 align="center">Hello 👋 My name is Sarah!</h1>
 
   🔭 My name's Sarah and I'm a software engineer based in South Florida.
