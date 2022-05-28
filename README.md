@@ -1,4 +1,4 @@
-<img src ="https://github.com/SarahAlCodes/SarahAlCodes/blob/dbe59acc04d5a169016e1a6ce1c264f8e2bd8d73/SWE%20banner.png" height= 396px width = 1584px> 
+<img src ="https://github.com/SarahAlCodes/SarahAlCodes/blob/dbe59acc04d5a169016e1a6ce1c264f8e2bd8d73/SWE%20banner.png" height= 640px width = 1280px> 
 
 <h1 align="center">Hello 👋 My name is Sarah!</h1>
 
