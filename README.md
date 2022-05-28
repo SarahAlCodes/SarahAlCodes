@@ -1,13 +1,14 @@
-<h1 align="left">Hello 👋 My name is Sarah!</h1>
-  🔭 I’m currently working on **a patient check-in application.**
+<h1 align="center">Hello 👋 My name is Sarah!</h1>
 
-  🌱 I’m currently learning **Node.js**
+  🔭 My name's Sarah and I'm a software engineer based in South Florida.
 
-  👯 I’m looking to collaborate on **Open-source Projects.**
+  🌱 I’m currently learning Node.js
 
-  👨‍💻 All of my projects are available at [https://sarahal-said.netlify.app/](https://sarahal-said.netlify.app/)
+  👯 I’m looking to collaborate on Open-source Projects.
 
-  💬 Ask me about **HTML, CSS, JavaScript, and weight-lifting**
+  👨‍💻 All of my projects are available at [https://sarahal-said.netlify.app/](sarahal-said)
+
+  💬 Ask me about **HTML, CSS, JavaScript, and traveling**
 
   📫 How to reach me **salsa025@fiu.edu**
 
