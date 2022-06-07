@@ -1,6 +1,6 @@
 <div align="center"> <img src ="https://github.com/SarahAlCodes/SarahAlCodes/blob/dbe59acc04d5a169016e1a6ce1c264f8e2bd8d73/SWE%20banner.png"> </div>
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Sarah!</h1>
+<h1 align="center">Hello, 👋🏽 My name is Sarah!</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sarah-al-said/">
