@@ -16,7 +16,7 @@
   
   👯 I’m looking to collaborate on Open-Source Projects.
 
-  🌱 I’m currently learning Node.js
+  🌱 I’m currently learning Node.js and React
 
   👨‍💻 All of my projects are available at [SarahAlCodes](https://sarahal-said.netlify.app/)
 
