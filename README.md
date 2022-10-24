@@ -33,19 +33,19 @@
 <div align="center">
   <table>
       <tr>
-        <td width="16.667%">
+        <td width="25%">
           <h3 align="center">MediTracker</h3>
           <p align="center">
-             <img src="https://user-images.githubusercontent.com/101753940/197308646-df566eb8-5d2b-44f7-9566-37b591463727.png" alt="MediTracker website cover"/> </a>
+             <span class="image main"> <a href="https://meditracker.onrender.com/"><img src="https://user-images.githubusercontent.com/101753940/197308646-df566eb8-5d2b-44f7-9566-37b591463727.png" height="300" alt="MediTracker-website"/></a></span>
             <p align="center">
               MeditTracker is a full-stack application that helps users track all their appointments, physicians, and insurance information in one place.
             </p>
           </p>
         </td>
-        <td width="16.667%">
+        <td width="25%">
           <h3 align="center">HealthierMind</h3>
           <p align="center">
-           <img src="https://user-images.githubusercontent.com/101753940/195250765-9bd417fe-98d1-4c6c-9f7d-d7d1fcd16ffd.gif" alt="healthiermind website cover"/> </a>
+           <span class="image main"> <a href="https://healthiermindapp.netlify.app/"><img src="https://user-images.githubusercontent.com/101753940/195250765-9bd417fe-98d1-4c6c-9f7d-d7d1fcd16ffd.gif" height="300" alt="healthiermind-website"/></a></span>
             <p align="center">
             HealthierMind is mindfulness-based application that takes kids ages 8-12 on an interactive journey of what it means to take care of your mental wellbeing.
             </p>
@@ -53,19 +53,19 @@
         </td>
       </tr>
       <tr>
-        <td width="16.667%">
+        <td width="25%">
           <h3 align="center">Nadia's Style Salon</h3>
           <p align="center">
-             <img src="https://user-images.githubusercontent.com/101753940/175795259-369e8b02-faf4-4bf7-a0be-0e614657237a.gif" alt="Nadias salon cover"/> </a>
+            <span class="image main"> <a href="https://nadiastyle-salon.netlify.app/"><img src="https://user-images.githubusercontent.com/101753940/175795259-369e8b02-faf4-4bf7-a0be-0e614657237a.gif" height="300" alt="nadias-salon-website"/></a></span>
             <p align="center">
               Nadia's Style Beauty Salon is a local cosmetology business in South Florida that was looking to enrich their online presence.
             </p>
           </p>
         </td>
-         <td width="16.667%">
+         <td width="25%">
           <h3 align="center">DevDraw</h3>
           <p align="center">
-             <img src="https://user-images.githubusercontent.com/101071525/195186529-6dae708a-1397-4c5d-ba48-9298dac2d2dc.png"  alt="Dev Draw cover"/></a>
+            <span class="image main"> <a href="https://devdraw.netlify.app/"><img src="https://user-images.githubusercontent.com/101753940/172073979-96990789-45dd-4f93-8c8f-28b7be25a89b.gif" height="300" alt="canvas-draw-website"/></a></span>
             <p align="center">
               DevDraw is a collaborative canvas with numerous features, the simplicity of this application is user-friendly for most ages.
             </p>
@@ -74,7 +74,6 @@
         </tr>
       </table>
  </div>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahalcodes&show_icons=true&locale=en" alt="sarahalcodes" /></p>
 
