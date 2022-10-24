@@ -36,7 +36,7 @@
         <td width="25%">
           <h3 align="center">MediTracker</h3>
           <p align="center">
-             <span class="image main"> <a href="https://meditracker.onrender.com/"><img src="https://user-images.githubusercontent.com/101753940/197308646-df566eb8-5d2b-44f7-9566-37b591463727.png" height="300" alt="MediTracker-website"/></a></span>
+             <span class="image main"> <a href="https://meditracker.onrender.com/"><img src="https://user-images.githubusercontent.com/101753940/197625944-c899073e-037b-4835-b465-25989c62da56.gif" height="300" alt="MediTracker-website"/></a></span>
             <p align="center">
               MeditTracker is a full-stack application that helps users track all their appointments, physicians, and insurance information in one place.
             </p>
