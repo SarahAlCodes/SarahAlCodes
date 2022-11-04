@@ -22,7 +22,7 @@
 
   💬 Ask me about **HTML, CSS, JavaScript, and weight-lifting!**
 
-  📫 How to reach me **salsa025@fiu.edu**
+  📫 How to reach me **sarahalcodes@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
