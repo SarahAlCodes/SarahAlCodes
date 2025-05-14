@@ -17,7 +17,7 @@
 
   👨‍💻 All of my projects are available at [SarahAlCodes](https://sarahal-said.netlify.app/)
 
-  💬 Ask me about **HTML, CSS, JavaScript, and weight-lifting!**
+  💬 Ask me about **HTML, CSS, JavaScript, and Matcha!**
 
   📫 How to reach me **sarahalcodes@gmail.com**
 
