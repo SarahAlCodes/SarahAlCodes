@@ -50,24 +50,6 @@
         </td>
       </tr>
       <tr>
-        <td width="50%">
-          <h3 align="center">Nadia's Style Salon</h3>
-          <p align="center">
-            <span class="image main"> <a href="https://nadiastyle-salon.netlify.app/"><img src="https://user-images.githubusercontent.com/101753940/175795259-369e8b02-faf4-4bf7-a0be-0e614657237a.gif" alt="nadias-salon-website"/></a></span>
-            <p align="center">
-              Nadia's Style Beauty Salon is a local cosmetology business in South Florida that was looking to enrich their online presence.
-            </p>
-          </p>
-        </td>
-         <td width="50%">
-          <h3 align="center">DevDraw</h3>
-          <p align="center">
-            <span class="image main"> <a href="https://devdraw.netlify.app/"><img src="https://user-images.githubusercontent.com/101753940/172073979-96990789-45dd-4f93-8c8f-28b7be25a89b.gif"  alt="canvas-draw-website"/></a></span>
-            <p align="center">
-              DevDraw is a collaborative canvas with numerous features, the simplicity of this application is user-friendly for most ages.
-            </p>
-          </p>
-        </td>
         </tr>
       </table>
  </div> 
