@@ -54,6 +54,3 @@
       </table>
  </div> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahalcodes&show_icons=true&locale=en" height="200" width="100%" alt="sarahalcodes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahalcodes&" height="200" width="100%" alt="sarahalcodes" /></p>
